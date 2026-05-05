@@ -25,7 +25,7 @@ Hi 👋, I'm Soumya Mondal<br><br>💻 BTech CSE Student interested in designing
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sou-mooo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sou.mooo?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/followers/sou-mooo?label=Followers&style=social" alt="followers" />
 </p>
 
 <div align="center">
