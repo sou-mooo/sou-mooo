@@ -1,3 +1,13 @@
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2D9EF7&center=true&vCenter=true&width=900&lines=Hello!+I'm+Soumya,+a+B.Tech+Computer+Science+Engineering+student;Passionate+about+building+innovative+tech+solutions;Continuously+exploring+new+technologies" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+
 # 💫 About Me:
 Hi 👋, I'm Soumya Mondal<br><br>💻 BTech CSE Student interested in designing scalable backend systems and solving real-world problems and continuously exploring modern technologies.<br>🚀 Aspiring Software Engineer | Java Backend & Full Stack Learner<br>💻 Focused on Java Backend Development & Full Stack Development<br>🌱 Actively learning MERN Stack<br>🧩 Strengthening Data Structures & Algorithms<br>👁️ Experienced in Computer Vision using OpenCV & Tesseract (OCR)<br>📱 Built applications using Flutter & Android Development<br>⚙️ Familiar with Python, JavaScript, and Git/GitHub workflows<br>🤝 Open to collaborating on Web Development & Software Projects<br>💼 Actively seeking Software Development Internship Opportunities<br><br>⚡ Interests & Hobbies<br>📚 Exploring new technologies & developer tools<br>✈️ Travelling<br>🎮 Playing Video Games
 
@@ -13,4 +23,19 @@ Hi 👋, I'm Soumya Mondal<br><br>💻 BTech CSE Student interested in designing
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sou-mooo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sou-mooo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/sou.mooo?label=Followers&style=social" alt="followers" />
+</p>
 
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2D9EF7&center=true&vCenter=true&width=800&lines=Let's+connect+and+craft+something+extraordinary+together!;Thanks+for+visiting!+%E2%AD%90" alt="Typing SVG" />
+</a>
+
+**Star ⭐ this repo if you found it interesting!**
+
+</div>
+
+---
