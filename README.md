@@ -13,6 +13,5 @@ Hi 👋, I'm Soumya Mondal<br><br>💻 BTech CSE Student interested in designing
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sou-mooo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sou-mooo&icon=7&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
