@@ -1,4 +1,10 @@
 
+<div align="center">
+
+# Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> I'm Soumya Mondal
+
+</div>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2D9EF7&center=true&vCenter=true&width=900&lines=Hello!+I'm+Soumya,+a+B.Tech+Computer+Science+Engineering+student;Passionate+about+building+innovative+tech+solutions;Continuously+exploring+new+technologies" alt="Typing SVG" />
@@ -39,3 +45,6 @@ Hi 👋, I'm Soumya Mondal<br><br>💻 BTech CSE Student interested in designing
 </div>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
