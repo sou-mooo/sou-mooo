@@ -13,5 +13,6 @@ Hi 👋, I'm Soumya Mondal<br><br>💻 BTech CSE Student interested in designing
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sou-mooo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
