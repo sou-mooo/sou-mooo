@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2D9EF7&center=true&vCenter=true&width=900&lines=Hello!+I'm+Soumya,+a+B.Tech+Computer+Science+Engineering+student;Passionate+about+building+innovative+tech+solutions;Continuously+exploring+new+technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2D9EF7&center=true&vCenter=true&width=900&lines=Hello!+I'm+Soumya,+a+B.Tech+Computer+Science+and+Engineering+student;Passionate+about+building+innovative+tech+solutions;Continuously+exploring+new+technologies" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,10 @@ Hi 👋, I'm Soumya Mondal<br><br>💻 BTech CSE Student interested in designing
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sou-mooo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/sou-mooo?label=Followers&style=social" alt="followers" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/sou-mooo?label=Followers&style=social" alt="followers" />
 </p>
 
 <div align="center">
